@@ -1,0 +1,54 @@
+
+body{
+
+    background-image: url('../assets/fondo-blue.jpg');
+}
+
+.cabeza-inf{
+
+    margin: 50px;
+    background-color: azure;
+    border-radius: 15px;
+
+}
+
+#carouselExampleFade{
+
+    margin: 50PX;
+    border-radius: 10PX;
+}
+
+
+.tituloimg{
+    width: 300px;
+    height: 100px;
+}
+
+
+.card-img-top{
+
+    width: 420px;
+    height: 250px;
+    border-radius: 15px;
+
+}
+
+#logo{
+    width: 70px;
+    height: 70px;
+
+}
+
+p{
+    text-align: justify;
+}
+
+.formulario{
+    margin: 30px 200px;
+    border-radius: 15px;
+    background-color: cadetblue;
+}
+
+form{
+    padding: 30px;
+}
